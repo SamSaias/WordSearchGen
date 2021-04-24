@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    color: burlywood;
+    align-items: center;
+    margin: 4vh 4vw;
+    width: 90vw;
+
+}
+
+h1 {
+    font-size: 5vh;
+}
+
+h2 {
+    font-size: 3vh;
+}
+
+p,li {
+    font-size: 2vh;
+}
+
+#details {
+    display: flex;
+    flex-direction: row;
+
+}
+
+#instructions {
+    width: 40%;
+}
+
+
+
+
